@@ -1,0 +1,13 @@
+{
+"name": "batalla-chismes",
+"version": "1.0.0",
+"description": "Taller POO – Reinas del Chisme (simple)",
+"main": "index.js",
+"scripts": {
+"start": "node index.js"
+},
+"license": "MIT",
+"dependencies": {
+"chalk": "^4.1.2"
+}
+}
